@@ -1,4 +1,4 @@
-# 0x11. C - printf
+# 0x11. C - printf and team project
 ## Description
 
 This team project is part of the first year curriculum of ALX_Africa.
